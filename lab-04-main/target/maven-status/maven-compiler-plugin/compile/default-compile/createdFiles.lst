@@ -1,0 +1,14 @@
+com\mycompany\factorybuilder\App.class
+com\mycompany\factorybuilder\Characters.class
+com\mycompany\factorybuilder\BodyType.class
+com\mycompany\factorybuilder\HairType.class
+com\mycompany\factorybuilder\Archer.class
+com\mycompany\factorybuilder\Avatar$Builder.class
+com\mycompany\factorybuilder\HairColor.class
+com\mycompany\factorybuilder\Knight.class
+com\mycompany\factorybuilder\SkinTone.class
+com\mycompany\factorybuilder\Avatar.class
+com\mycompany\factorybuilder\CharacterTypes.class
+com\mycompany\factorybuilder\FlagBearer.class
+com\mycompany\factorybuilder\CharacterFactory.class
+com\mycompany\factorybuilder\FacialFeatures.class
