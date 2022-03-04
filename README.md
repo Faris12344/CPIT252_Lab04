@@ -12,6 +12,5 @@ Made my own archer Charecter which is Bald and fat because why not
 Added another enum in the HairColor class which is NONE because bald people don't have hair
 
 added try catch in the App MainClass to handle IllegalArgumentException 
-
 ====================================
 comments in the code for the changes made 
